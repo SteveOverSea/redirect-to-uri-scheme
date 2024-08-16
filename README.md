@@ -27,5 +27,5 @@ https://redirect-to-uri-scheme.netlify.app/
 | Key      | Description                                                                                           |
 | -------- | ----------------------------------------------------------------------------------------------------- |
 | `scheme` | the URI scheme part before the `://` (e.g. brave)                                                     |
-| `path`   | the URI path part after the `://` (e.g. open-url?url=search.brave.com/) which per default uri-encoded |
+| `path`   | the URI path part after the `://` (e.g. open-url?url=search.brave.com/) which is per default uri-encoded |
 | `encode` | tells if the path is uri-encoded - set to false if not needed (default: true)                         |
