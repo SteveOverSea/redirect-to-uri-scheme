@@ -12,7 +12,9 @@ That's why I wrote a little edge-function that redirects to a URI scheme for me!
 
 ## How to use
 
-Live (free netlify tier)
+### Live 
+- free netlify tier
+- no UI
 
 https://redirect-to-uri-scheme.netlify.app/
 
