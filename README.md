@@ -4,7 +4,7 @@
 
 My initial need for this project was that I wanted to automatically open certain domains in another browser on iOS.
 
-The redirect rule for the browser is set with [Hyperweb](https://guide.hyperweb.app/).
+The redirect rule for the browser is set with [Redirect Web](https://mshibanami.github.io/redirect-web/#/).
 
 I know I coud open apps on my mobile phone via URI schemes. The problem was that the redirect url that was given to Hyperweb was always prefixed with `https://` so that didn't work.
 
